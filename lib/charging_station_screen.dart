@@ -11,8 +11,8 @@ class _ChargingStationHomePageState extends State<ChargingStationHomePage> {
   final TextEditingController _startController = TextEditingController();
   final TextEditingController _endController = TextEditingController();
   
-  // Replace 'YOUR_API_KEY_HERE' with your actual Gemini API key
-  static const String _apiKey = 'AIzaSyBEh_7G_0LKAu9sPMuOgxe0AfEfQQm6yOw';
+ 
+  static const String _apiKey = 'enter your gemini api key';
   
   String _selectedVehicleType = 'Tesla';
   String _selectedPriority = 'Fastest Service';
