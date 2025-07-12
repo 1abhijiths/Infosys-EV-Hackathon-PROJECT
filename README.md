@@ -65,7 +65,7 @@ bashflutter pub get
 
 Configure API Key
 
-Open lib/main.dart (or your main file)
+Open lib/charging_station_screen.dart 
 Replace 'YOUR_API_KEY_HERE' with your actual Gemini API key
 
 dartstatic const String _apiKey = 'YOUR_ACTUAL_GEMINI_API_KEY';
@@ -91,19 +91,19 @@ Environmental impact cards with CO₂ savings
 Community benefit information for each station
 
 🌱 Sustainability Features
-Environmental Impact
+1.Environmental Impact
 
 CO₂ Reduction Tracking: Calculate and display carbon footprint reduction
 Renewable Energy Metrics: Track clean energy usage across trips
 Sustainable Trip Counter: Gamification element to encourage eco-friendly travel
 
-Community Benefits
+2.Community Benefits
 
 Local Job Creation: Highlight stations supporting local employment
 Educational Programs: Identify stations with sustainability education initiatives
 Community Partnerships: Show stations with local business collaborations
 
-Green Energy Integration
+3.Green Energy Integration
 
 Solar Powered Stations: Prioritize solar-powered charging infrastructure
 Wind Energy: Include wind-powered charging networks
@@ -145,8 +145,7 @@ Maintain code documentation
 Test on multiple devices
 Ensure SDG alignment for new features
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 🌟 Future Enhancements
 
  Real-time station availability
