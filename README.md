@@ -1,6 +1,9 @@
 Sustainable EV Journey Planner 🚗⚡🌱
+
+
 A comprehensive Flutter mobile application that helps electric vehicle owners plan sustainable journeys by finding eco-friendly charging stations and battery swapping services along their route, while tracking environmental impact aligned with UN Sustainable Development Goals.
 🌟 Key Features
+
 🚗 Multi-Vehicle Support
 
 Support for 13+ electric vehicle types including Tesla, Nissan Leaf, BMW i3, NIO models, and more
