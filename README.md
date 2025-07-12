@@ -57,7 +57,7 @@ Google Gemini API key
 Installation
 
 Clone the repository
-bashgit clone https://github.com/yourusername/sustainable-ev-journey-planner.git
+bashgit clone https://github.com/1abhijiths/Infosys-EV-Hackathon-PROJECT
 cd sustainable-ev-journey-planner
 
 Install dependencies
