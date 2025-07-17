@@ -1,7 +1,7 @@
 
        
 
-Sustainable EV Journey Planner 🚗⚡🌱
+Sustainable EV Journey Planner 🚗⚡🌱(MVP)
 
 
 This project is a Minimum Viable Product (MVP) showcasing a sustainability-focused EV journey planner with core features aligned to UN SDGs.
