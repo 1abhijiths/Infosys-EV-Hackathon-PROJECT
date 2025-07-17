@@ -1,4 +1,12 @@
+
+       
+
 Sustainable EV Journey Planner 🚗⚡🌱
+
+
+This project is a Minimum Viable Product (MVP) showcasing a sustainability-focused EV journey planner with core features aligned to UN SDGs.
+
+
 
 
 A comprehensive Flutter mobile application that helps electric vehicle owners plan sustainable journeys by finding eco-friendly charging stations and battery swapping services along their route, while tracking environmental impact aligned with UN Sustainable Development Goals.
