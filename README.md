@@ -60,7 +60,7 @@ Prerequisites
 Flutter SDK 3.0+
 Dart SDK 2.17+
 Android Studio / VS Code
-Google Gemini API key
+
 
 Installation
 
@@ -73,10 +73,7 @@ bashflutter pub get
 
 Configure API Key
 
-Open lib/charging_station_screen.dart 
-Replace 'YOUR_API_KEY_HERE' with your actual Gemini API key
 
-dartstatic const String _apiKey = 'YOUR_ACTUAL_GEMINI_API_KEY';
 
 Run the app
 bashflutter run
